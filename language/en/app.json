@@ -1,0 +1,229 @@
+{
+  "locale": "en",
+  "strings": {
+    "title": "Nanliao Community Guide App",
+
+    "setting_page": {
+      "title": "Settings",
+      "general": "General",
+      "language": "Language",
+      "clean_cache": "Clear Cache",
+      "clean_cache_title": "Clear Audio Cache",
+      "clean_cache_message": "Delete downloaded audio files. They will be downloaded again when played next time.",
+      "clean_cache_success": "{count} files deleted",
+      "clean_cache_fail": "Failed to clear cache",
+      "clean_cache_empty": "No cached files",
+      "cancel": "Cancel",
+      "confirm": "Confirm",
+      "about": "About",
+      "app_name": "Guide App Version",
+      "version": "v1.0.0",
+      "lang_saved": "Language saved",
+      "medal": "Medals"
+    },
+
+    "home_page": {
+      "welcome": "Welcome to the Nanliao Community Guide App",
+      "description": "This app is designed for the Nanliao community and provides multiple guide features for visitors.",
+      "menu_title": "Guide Menu",
+      "war_games_room": "War Game Room"
+    },
+
+    "text_size": {
+      "title": "Text Size Control",
+      "now": "Current size",
+      "zoom_in": "Increase",
+      "zoom_out": "Decrease",
+      "reset": "Reset"
+    },
+
+    "target_focus": {
+      "menu": "You can scroll here to view more attractions!",
+      "change_button": "Tap here to change the display style of guide points.",
+      "setting": "Tap here to open the Settings page.",
+      "qr": "QR Code scanner is here!",
+      "back_home": "Tap here to return to Home quickly.",
+      "guide": "Tap here to view the tips again!",
+      "skip": "Skip"
+    },
+
+    "tutorial": {
+      "image_carousel": "🖼️ Images auto-slide. Tap to view in full size.",
+      "audio_player": "🎵 Audio playback feature",
+      "text_control": "📝 Text size control"
+    },
+
+    "image": {
+      "load_failed": "Failed to load image",
+      "close": "Close",
+      "no_image": "No image available",
+      "previous": "Previous",
+      "next": "Next"
+    },
+
+    "audio": {
+      "skip_forward": "Skip forward 5 sec",
+      "skip_backward": "Rewind 5 sec",
+      "restart": "Restart",
+      "speed_normal": "Normal speed 1.0x",
+      "speed_fast": "Fast 1.25x",
+      "speed_faster": "Faster 1.5x",
+      "file_not_found": "Audio file not found",
+      "play_failed": "Playback failed"
+    },
+
+    "loading": {
+      "preparing": "Preparing language resources...",
+      "downloading": "Downloading audio pack {current} / {total}",
+      "completed": "Audio pack download completed",
+      "no_need": "No download needed"
+    },
+
+    "qr_page": {
+      "title": "QR Code Scanner",
+      "scan_instruction": "Point the camera at a QR Code to scan",
+      "scan_result": "Scan Result",
+      "invalid_qr": "Invalid QR Code",
+      "scan_error": "An error occurred during scanning",
+      "permission_denied": "Camera permission is required",
+      "permission_request": "Please allow camera access",
+      "go_to_settings": "Go to Settings",
+      "scanning": "Scanning...",
+      "scan_success": "Scan successful",
+      "no_camera": "No camera available"
+    },
+
+    "medal_page": {
+      "title": "Medal Collection",
+      "description": "Your medals",
+      "lock": "Locked"
+    },
+
+    "page1": {
+      "title": "Fuji Fish Steaming House",
+      "introduce": "About Fuji Fish Steaming House",
+      "content": "Built in 1959 by Dai Fuji, the traditional fish steaming house includes a stove area, chimney, and brine tank. During summer sardine season, fishermen steamed and dried fish here for export to Taiwan and Japan. In 2012, the community restored the site to preserve its historical appearance."
+    },
+
+    "page2": {
+      "title": "Small Farmers' Market",
+      "introduce": "About the Farmers' Market",
+      "content": "Nanliao has long been a farming village, producing seasonal crops such as corn, peanuts, sweet potatoes, pumpkins, and vegetables. In 2014, villagers worked together to renovate an abandoned space and turned it into a spot for occasional farmers' markets promoting fresh produce and eco-friendly concepts."
+    },
+
+    "page3": {
+      "title": "Xu Fan Old House",
+      "introduce": "About Xu Fan Old House",
+      "content": "Built between 1851–1861, the house features traditional Penghu stone structures. Renovated in 1935 by Xu Fan, a Taoist practitioner, it is now registered as a historic building due to its cultural and religious value."
+    },
+
+    "page4": {
+      "title": "Coral Stone Tree House",
+      "introduce": "About the Tree House",
+      "content": "This old house once included a pharmacy, private school, and barbershop. In 2013, international volunteers helped restore the site, transforming it into a unique historical attraction."
+    },
+
+    "page5": {
+      "title": "Floating Buoy Art Zone",
+      "introduce": "About the Floating Buoys",
+      "content": "Nanliao often receives large amounts of ocean debris due to northeast monsoon winds. A retired local resident began collecting buoy waste and transformed it into an environmental art space."
+    },
+
+    "page6": {
+      "title": "Zhao Family Old Houses",
+      "introduce": "About Zhao Old Houses",
+      "content": "Located between No. 77 and No. 95 of Nanliao, these houses retain a classic Penghu style. After community cleaning and restoration, the peaceful alley reflects the charm of old island life."
+    },
+
+    "page7": {
+      "title": "Cow Dung Pit",
+      "introduce": "About the Cow Dung Pit",
+      "content": "Restored in 2013, this area recreates traditional farming life such as cow dung processing. It now serves as an environmental education site."
+    },
+
+    "page8": {
+      "title": "One-Day Farmer",
+      "introduce": "About the One-Day Farmer",
+      "content": "Nanliao has vast farmlands surrounding the village. Visitors can imagine traditional farming scenes—plowing fields, stacking coral stones, picking crops—and experience the warmth and vitality of the land."
+    },
+
+    "page9": {
+      "title": "Masked Ladies",
+      "introduce": "About the Masked Ladies",
+      "content": "Penghu women traditionally wore cloth wraps to protect themselves from sun, cold winds, and sea spray. This unique style is now listed as an intangible cultural heritage."
+    },
+
+    "page10": {
+      "title": "Coral Stone Walls",
+      "introduce": "About Coral Stone Walls",
+      "content": "These walls are built from coral stones collected during low tide and transported by boat. After years of weathering, the stones were used to construct houses and windbreaks. Today, coral harvesting is prohibited to preserve marine ecosystems."
+    },
+
+    "page11": {
+      "title": "Zhao Ancestral Temple",
+      "introduce": "About the Zhao Ancestral Temple",
+      "content": "Used as a military camp in 1949, the site once hosted gatherings, performances, and open-air movies. After the military left, it became a lively fish steaming area. Today it serves as the ancestral shrine for the Zhao family."
+    },
+
+    "page12": {
+      "title": "Experience Farm",
+      "introduce": "About the Experience Farm",
+      "content": "Run by Zhao Jia-Xie, the farm practices organic and eco-friendly farming. Certified organic in 2014, it offers tours and hands-on activities promoting sustainable agriculture."
+    },
+
+    "page13": {
+      "title": "Rice Dough Animal Park",
+      "introduce": "About the Park",
+      "content": "In the past, Penghu families made small rice dough animal figures during festivals as offerings for blessings. This park was built to preserve and showcase this local cultural tradition."
+    },
+
+    "feature_1": "Entrance",
+    "feature_2": "Page 2",
+    "feature_3": "Page 3",
+    "feature_4": "Page 4",
+    "feature_5": "Page 5",
+    "feature_6": "Page 6",
+    "feature_7": "Page 7",
+    "feature_8": "Page 8",
+    "feature_9": "Page 9",
+    "feature_10": "Page 10",
+    "feature_11": "Page 11",
+    "feature_12": "Page 12",
+    "feature_13": "Page 13",
+    "feature_14": "Page 14",
+    "feature_15": "Image Circle",
+    "feature_16": "QR Scanner",
+
+    "back_to_home": "Back to Home",
+    "current_home": "Currently on Home Page",
+
+    "map_title": "Map",
+    "coordinate_point": "Point",
+    "coordinates": "Coordinates",
+    "status": "Status",
+    "marked": "Marked",
+    "unmarked": "Unmarked",
+    "close": "Close",
+
+    "qr_scanner_title": "QR Code Scanner",
+    "scan_instruction": "Point the camera at a QR Code to scan",
+    "scan_result": "Scan Result:",
+    "scan_again": "Scan Again",
+    "open_link": "Open Link",
+    "opening": "Opening...",
+    "copy": "Copy",
+    "copied": "Copied to clipboard",
+    "copy_failed": "Copy failed",
+    "confirm_open_link": "Open this link?",
+    "confirm_open_message": "Do you want to open this link in the browser?",
+    "cancel": "Cancel",
+    "open": "Open",
+    "pick_from_gallery": "Choose from Gallery",
+    "scan_from_camera": "Scan with Camera",
+    "select_qr_source": "Choose QR Code Source",
+    "processing_image": "Processing image...",
+    "no_qr_found": "No QR Code found in image",
+    "invalid_image": "Invalid image format",
+    "image_too_large": "Image too large, please select a smaller one"
+  }
+}

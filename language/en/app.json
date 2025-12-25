@@ -9,8 +9,8 @@
       "language": "Language",
       "clean_cache": "Clear Cache",
       "clean_cache_title": "Clear Audio Cache",
-      "clean_cache_message": "Delete downloaded audio files. They will be downloaded again when played next time.",
-      "clean_cache_success": "{count} files deleted",
+      "clean_cache_message": "This will delete downloaded audio files. They will be downloaded again next time you play them.",
+      "clean_cache_success": "Deleted {count} files",
       "clean_cache_fail": "Failed to clear cache",
       "clean_cache_empty": "No cached files",
       "cancel": "Cancel",
@@ -18,45 +18,44 @@
       "about": "About",
       "app_name": "Guide App Version",
       "version": "v1.0.0",
-      "lang_saved": "Language saved",
-      "medal": "Medals"
+      "lang_saved": "Language saved"
     },
 
     "home_page": {
       "welcome": "Welcome to the Nanliao Community Guide App",
-      "description": "This app is designed for the Nanliao community and provides multiple guide features for visitors.",
+      "description": "This app is designed for the Nanliao community and provides various features for visitors.",
       "menu_title": "Guide Menu",
-      "war_games_room": "War Game Room"
+      "war_games_room": "War Games Room"
     },
 
     "text_size": {
       "title": "Text Size Control",
-      "now": "Current size",
-      "zoom_in": "Increase",
-      "zoom_out": "Decrease",
+      "now": "Current Size",
+      "zoom_in": "Zoom In",
+      "zoom_out": "Zoom Out",
       "reset": "Reset"
     },
 
     "target_focus": {
-      "menu": "You can scroll here to view more attractions!",
-      "change_button": "Tap here to change the display style of guide points.",
-      "setting": "Tap here to open the Settings page.",
-      "qr": "QR Code scanner is here!",
-      "back_home": "Tap here to return to Home quickly.",
-      "guide": "Tap here to view the tips again!",
+      "menu": "You can swipe the menu to view more spots!",
+      "change_button": "Tap here to change how the guide points are shown.",
+      "setting": "Tap here to open the settings page.",
+      "qr": "QR Code scanning is available here!",
+      "back_home": "Tap here to return to the home page.",
+      "guide": "Tap here to view the hints again!",
       "skip": "Skip"
     },
 
     "tutorial": {
-      "image_carousel": "🖼️ Images auto-slide. Tap to view in full size.",
-      "audio_player": "🎵 Audio playback feature",
-      "text_control": "📝 Text size control"
+      "image_carousel": "🖼️ Images auto-slide. Tap to zoom in.",
+      "audio_player": "🎵 Audio playback",
+      "text_control": "📝 Adjustable text size"
     },
 
     "image": {
-      "load_failed": "Failed to load image",
+      "load_failed": "Image failed to load",
       "close": "Close",
-      "no_image": "No image available",
+      "no_image": "No images available",
       "previous": "Previous",
       "next": "Next"
     },
@@ -65,7 +64,7 @@
       "skip_forward": "Skip forward 5 sec",
       "skip_backward": "Rewind 5 sec",
       "restart": "Restart",
-      "speed_normal": "Normal speed 1.0x",
+      "speed_normal": "Normal 1.0x",
       "speed_fast": "Fast 1.25x",
       "speed_faster": "Faster 1.5x",
       "file_not_found": "Audio file not found",
@@ -80,104 +79,138 @@
     },
 
     "qr_page": {
-      "title": "QR Code Scanner",
+      "title": "QR Code Scan",
       "scan_instruction": "Point the camera at a QR Code to scan",
       "scan_result": "Scan Result",
       "invalid_qr": "Invalid QR Code",
-      "scan_error": "An error occurred during scanning",
-      "permission_denied": "Camera permission is required",
+      "scan_error": "Scan error occurred",
+      "permission_denied": "Camera permission is required to scan",
       "permission_request": "Please allow camera access",
       "go_to_settings": "Go to Settings",
       "scanning": "Scanning...",
-      "scan_success": "Scan successful",
-      "no_camera": "No camera available"
-    },
-
-    "medal_page": {
-      "title": "Medal Collection",
-      "description": "Your medals",
-      "lock": "Locked"
+      "scan_success": "Scan Successful",
+      "no_camera": "No available camera found"
     },
 
     "page1": {
-      "title": "Fuji Fish Steaming House",
-      "introduce": "About Fuji Fish Steaming House",
-      "content": "Built in 1959 by Dai Fuji, the traditional fish steaming house includes a stove area, chimney, and brine tank. During summer sardine season, fishermen steamed and dried fish here for export to Taiwan and Japan. In 2012, the community restored the site to preserve its historical appearance."
+      "title": "Water Source Memory"
+    },
+
+    "page1_1": {
+      "title": "Nanliao Overview",
+      "introduce": "Introduction to Nanliao",
+      "content": "Welcome to Nanliao Village, a place with deep cultural roots and more than 400 years of history. Since the 17th century, Penghu has been an important maritime hub. It was once targeted by the Dutch East India Company as their gateway to China but was soon driven out by the Ming Dynasty. After the First Sino-Japanese War in 1895, Penghu was ceded to Japan under the Treaty of Shimonoseki and later entered a period of modernization. Unlike urban areas, Nanliao is a traditional farming-and-fishing village where people rely on the land, water sources, and the sea. The coral-stone walls, old houses, and traditional wells seen throughout the village reflect the lives of early settlers. These unique cultural landscapes have made Nanliao one of the world's Top 100 Green Destinations. Through Nanliao’s stories, we hope you can discover the vibrant and diverse culture of Penghu."
+    },
+
+    "page1_2": {
+      "title": "Nanliao Water Source",
+      "introduce": "Introduction to Nanliao Water Source",
+      "content": "We are now standing on Nanliao’s main road, known locally as 'Zhongzheng Road'. Beneath this road lies the village’s most important historical waterway. The water originated from the red-soil hills in the east and flowed northwest toward Kuibei Harbor, serving as the main freshwater supply for villagers. People used the waterway for washing clothes, preparing fish, and even building fish ovens. The road’s shape today still follows the original water channel. The waterway, about 1.3 km long, once flowed year-round and symbolized Nanliao’s abundant groundwater, helping the village thrive. It is said that Nanliao’s No. 1 Well was dug here under the guidance of Baosheng Emperor, providing a stable water source for the residents."
+    },
+
+    "page1_3": {
+      "title": "Origin Unfinished",
+      "introduce": "Introduction",
+      "content": "Here we arrive at Nanliao’s No. 1 Well, nearly 400 years old. In 2024, the government renovated the surrounding area to highlight the theme of water resources. The site includes art installations showing early villagers’ daily activities, such as 'Origin Unfinished' and 'Jumping into the Well'. The well is built with coral stones, and its guardrails were traditionally constructed by women, showcasing local craftsmanship. Coral stones are also provided for visitors to try stacking, giving you a hands-on experience of building a well."
+    },
+
+    "page1_4": {
+      "title": "Well Jumping Kids",
+      "introduce": "Introduction",
+      "content": "This sculpture shows how children in the past would pull their pants halfway down and eagerly jump into the well to cool off during summer. Since parents believed the sea was dangerous, kids often played in wells instead. The rough coral-stone walls made it easier to climb and relatively safe. The underwear they wore was made from 22 kg flour bags provided during U.S. aid programs—a symbol of better-off families at the time."
+    },
+
+    "page1_5": {
+      "title": "Nanliao Walking Route",
+      "introduce": "Nanliao Walking Route Introduction",
+      "content": "Nanliao’s water-related sites are spread across the village. We recommend starting from Well No. 1, then heading east along the main road. You will pass Xu Fan Old House, the Zhao Ancestral Temple, the Floating Ball Turtle, and clusters of old houses. Continue to the 'Cow Dung Pit', which demonstrates traditional cow-dung cake making, and finish at the Hongtougou water source. On the return trip, you can visit four historic wells in the village and collect stamps on your 'Water Memory' postcard."
     },
 
     "page2": {
-      "title": "Small Farmers' Market",
-      "introduce": "About the Farmers' Market",
-      "content": "Nanliao has long been a farming village, producing seasonal crops such as corn, peanuts, sweet potatoes, pumpkins, and vegetables. In 2014, villagers worked together to renovate an abandoned space and turned it into a spot for occasional farmers' markets promoting fresh produce and eco-friendly concepts."
+      "title": "Fuji Fish Oven",
+      "introduce": "Introduction",
+      "content": "Built in 1959 by Dai Fuji, the fish oven consists of three main parts: the stove, chimney, and brine tank. Summer is the season for sardines (locally called 'stinky fish'), and villagers processed them into dried fish for export to Taiwan and Japan. To help preserve this traditional craft, the community renovated the site in 2012 with the owner's permission, restoring its original appearance."
     },
 
     "page3": {
-      "title": "Xu Fan Old House",
-      "introduce": "About Xu Fan Old House",
-      "content": "Built between 1851–1861, the house features traditional Penghu stone structures. Renovated in 1935 by Xu Fan, a Taoist practitioner, it is now registered as a historic building due to its cultural and religious value."
+      "title": "Coral Stone Tree House",
+      "introduce": "Introduction",
+      "content": "In the early Republic era, three families lived in this old house. The main room was run by a Chinese medicine shop owned by people from Qingluo. When villagers felt unwell, they would consult Baosheng Emperor, draw a healing fortune, and prepare the prescribed herbal remedies here. The east room was used for private schooling, and the west room housed a barbershop. In 2013, international volunteers helped renovate and decorate the house, turning it into a historical hideaway."
     },
 
     "page4": {
-      "title": "Coral Stone Tree House",
-      "introduce": "About the Tree House",
-      "content": "This old house once included a pharmacy, private school, and barbershop. In 2013, international volunteers helped restore the site, transforming it into a unique historical attraction."
+      "title": "Xu Fan Old House",
+      "introduce": "Introduction",
+      "content": "Built during the Xianfeng era (1851–1861), this traditional house features a single structure with four side rooms. It includes the main building, side rooms, a pavilion area, and a deep well. The coral-stone walls were plastered using Penghu’s traditional techniques. In 1935, Xu Fan renovated the house. As a Taoist practitioner of the Lüshan school, he became a founding ritual master of Baoning Temple. The Penghu County Cultural Bureau recognized the house as a historic building for its religious and artistic value."
     },
 
     "page5": {
-      "title": "Floating Buoy Art Zone",
-      "introduce": "About the Floating Buoys",
-      "content": "Nanliao often receives large amounts of ocean debris due to northeast monsoon winds. A retired local resident began collecting buoy waste and transformed it into an environmental art space."
+      "title": "Turning Floats",
+      "introduce": "Introduction",
+      "content": "Located at Penghu’s northeast, Nanliao collects large amounts of drifted marine waste brought by monsoon winds. Retired local Zhao Changshou began cleaning beaches and collecting usable fishing floats. After careful sorting and arranging, he transformed them into a meaningful environmental installation."
     },
 
     "page6": {
-      "title": "Zhao Family Old Houses",
-      "introduce": "About Zhao Old Houses",
-      "content": "Located between No. 77 and No. 95 of Nanliao, these houses retain a classic Penghu style. After community cleaning and restoration, the peaceful alley reflects the charm of old island life."
+      "title": "Small Farmers Market",
+      "introduce": "Introduction",
+      "content": "Nanliao is a traditional farming village. Spring brings corn; summer and autumn produce peanuts, sweet potatoes, pumpkins, and gourds; and winter grows cabbage, turnip, broccoli, and carrots. In 2014, with the owner's consent, the community transformed this space into a market area where villagers sell their produce and seafood from the intertidal zone, promoting toxin-free farming and reduced food carbon footprints."
     },
 
     "page7": {
-      "title": "Cow Dung Pit",
-      "introduce": "About the Cow Dung Pit",
-      "content": "Restored in 2013, this area recreates traditional farming life such as cow dung processing. It now serves as an environmental education site."
+      "title": "Chicken-Dog Park",
+      "introduce": "Introduction",
+      "content": "Life in early Penghu was harsh. During the Winter Solstice festival, children shaped dough made from rice flour into animals—cows, sheep, pigs, chickens, ducks, dogs—as offerings to pray for blessings and a prosperous harvest. These dough figures, called 'Chicken-Dog', later became children’s snacks and toys. To preserve this tradition, the Penghu County Government built Chicken-Dog Park as a cultural landmark."
     },
 
     "page8": {
-      "title": "One-Day Farmer",
-      "introduce": "About the One-Day Farmer",
-      "content": "Nanliao has vast farmlands surrounding the village. Visitors can imagine traditional farming scenes—plowing fields, stacking coral stones, picking crops—and experience the warmth and vitality of the land."
+      "title": "Zhao Ancestral Temple",
+      "introduce": "Introduction",
+      "content": "In 1949, the military stationed troops here. When Taiwan Television began broadcasting, the village gathered here to watch the only black-and-white TV. Soldiers practiced dances, merchants performed shows, and outdoor movies were screened—making the area the liveliest place in the village. After the military left, a fish oven was built here, creating bustling crowds again. Today, it serves as a place for Zhao descendants to honor their ancestors."
     },
 
     "page9": {
-      "title": "Masked Ladies",
-      "introduce": "About the Masked Ladies",
-      "content": "Penghu women traditionally wore cloth wraps to protect themselves from sun, cold winds, and sea spray. This unique style is now listed as an intangible cultural heritage."
+      "title": "Zhao Old House Cluster",
+      "introduce": "Introduction",
+      "content": "This cluster of old houses, located between numbers 77 and 95, belongs to the Zhao family. The traditional appearance has been preserved, and community cleanup efforts highlight the peaceful and classical atmosphere. Standing in the narrow lane ('Descendant Alley'), you can feel the cool breeze that villagers often enjoyed as a place to rest and calm their minds."
     },
 
     "page10": {
       "title": "Coral Stone Walls",
-      "introduce": "About Coral Stone Walls",
-      "content": "These walls are built from coral stones collected during low tide and transported by boat. After years of weathering, the stones were used to construct houses and windbreaks. Today, coral harvesting is prohibited to preserve marine ecosystems."
+      "introduce": "Introduction",
+      "content": "Coral-stone walls, commonly known as 'residential walls', are unique structures in Penghu built to withstand strong northeast winds. Coral was collected during low tide using long hooks and lever techniques, then transported by boats and ox carts. Stones were stacked to build vegetable gardens or houses. Large building stones had to weather for over two years before use. Today, coral harvesting is prohibited to protect marine resources."
     },
 
     "page11": {
-      "title": "Zhao Ancestral Temple",
-      "introduce": "About the Zhao Ancestral Temple",
-      "content": "Used as a military camp in 1949, the site once hosted gatherings, performances, and open-air movies. After the military left, it became a lively fish steaming area. Today it serves as the ancestral shrine for the Zhao family."
+      "title": "Cow Dung Pit",
+      "introduce": "Introduction",
+      "content": "The Cow Dung Pit recreation area restores the traditional rural lifestyle. In 2013, with the landowner’s permission and support from the Rural Regeneration Program, the community cleared the overgrown land and recreated the original environment where villagers once stepped on cow dung and made cow-dung cakes—turning it into an educational experience site."
     },
 
     "page12": {
-      "title": "Experience Farm",
-      "introduce": "About the Experience Farm",
-      "content": "Run by Zhao Jia-Xie, the farm practices organic and eco-friendly farming. Certified organic in 2014, it offers tours and hands-on activities promoting sustainable agriculture."
+      "title": "One-Day Farmer",
+      "introduce": "Introduction",
+      "content": "Nanliao has extensive farmland stretching east to Guoye, west to Huxi and Hudong, north to Beiliao, and south to Jianshan. Large fields outside the village are called 'mountains', while small gardens next to homes are called 'home plots'. Here you can imagine scenes of early farming life—bending down to plant crops, plowing with cattle, stacking coral stones, weaving grass, and roasting sweet potatoes. Pick up a handful of soil and feel the warmth and energy of the land."
     },
 
     "page13": {
-      "title": "Rice Dough Animal Park",
-      "introduce": "About the Park",
-      "content": "In the past, Penghu families made small rice dough animal figures during festivals as offerings for blessings. This park was built to preserve and showcase this local cultural tradition."
+      "title": "Experience Farm",
+      "introduce": "Introduction",
+      "content": "Farm owner Zhao Jiaxie practices organic and eco-friendly farming. In 2014, the farm was officially certified organic. Besides producing organic vegetables, the farm offers tours and hands-on farming experiences, aiming toward edible landscapes and sustainable agriculture."
     },
 
-    "feature_1": "Entrance",
+    "page14": {
+      "title": "Masked Women",
+      "introduce": "Introduction",
+      "content": "Penghu’s traditional 'face-wrapping cloth' was used by women working in the fields or at sea to protect themselves from the hot sun, strong northeast winds, and salt spray. Different regions had different wrapping styles. The local style used a square cloth plus a towel to cover the face, giving rise to the name 'Masked Women'. Because of its cultural significance, it is listed as an intangible cultural heritage."
+    },
+
+    "page15": {
+      "title": "Baosheng Avenue",
+      "introduce": "Introduction",
+      "content": "This road connects Nanliao and Beiliao, and both villages worship Baosheng Emperor. In the past, when people fell ill or faced difficulties, they prayed for healing or guidance by drawing divine lots. The mural wall here was created to preserve this tradition. The colors—yellow, blue, red, green, white, and black—come from temple symbolism and the Five Battalions system, representing protection from all directions and the colors used in divine banners."
+    },
+
+    "feature_1": "Page 1",
     "feature_2": "Page 2",
     "feature_3": "Page 3",
     "feature_4": "Page 4",
@@ -191,22 +224,28 @@
     "feature_12": "Page 12",
     "feature_13": "Page 13",
     "feature_14": "Page 14",
-    "feature_15": "Image Circle",
-    "feature_16": "QR Scanner",
+    "feature_15": "Page 15",
+    "feature_16": "Page 16",
+    "feature_17": "Page 17",
+    "feature_18": "Page 18",
+    "feature_19": "Page 19",
+    "feature_20": "Image Circle",
+    "feature_21": "QR Scanner",
 
     "back_to_home": "Back to Home",
     "current_home": "Currently on Home Page",
+    "settings": "Settings",
 
     "map_title": "Map",
-    "coordinate_point": "Point",
+    "coordinate_point": "Coordinate Point",
     "coordinates": "Coordinates",
     "status": "Status",
     "marked": "Marked",
     "unmarked": "Unmarked",
     "close": "Close",
 
-    "qr_scanner_title": "QR Code Scanner",
-    "scan_instruction": "Point the camera at a QR Code to scan",
+    "qr_scanner_title": "QR Scanner",
+    "scan_instruction": "Point the camera at the QR Code to scan",
     "scan_result": "Scan Result:",
     "scan_again": "Scan Again",
     "open_link": "Open Link",
@@ -215,15 +254,83 @@
     "copied": "Copied to clipboard",
     "copy_failed": "Copy failed",
     "confirm_open_link": "Open this link?",
-    "confirm_open_message": "Do you want to open this link in the browser?",
+    "confirm_open_message": "Do you want to open this link in your browser?",
     "cancel": "Cancel",
     "open": "Open",
     "pick_from_gallery": "Choose from Gallery",
     "scan_from_camera": "Scan with Camera",
-    "select_qr_source": "Choose QR Code Source",
+    "select_qr_source": "Select QR Code Source",
     "processing_image": "Processing image...",
-    "no_qr_found": "No QR Code found in image",
+    "no_qr_found": "No QR Code found in the image",
     "invalid_image": "Invalid image format",
-    "image_too_large": "Image too large, please select a smaller one"
+    "image_too_large": "Image is too large, please choose a smaller one",
+
+    "cache_messages": {
+      "clear_cache_title": "Clear Audio Cache",
+      "clear_cache_content": "Are you sure you want to delete downloaded audio files? They will be downloaded again later.",
+      "clear_cache_cancel": "Cancel",
+      "clear_cache_confirm": "Clear",
+      "clear_cache_success": "Cleared {count} cached files",
+      "clear_cache_failed": "Failed to clear cache"
+    },
+
+    "app_init": {
+      "loading_title": "Loading...",
+      "preparing_resources": "Preparing resources...",
+      "download_progress": "Downloading {current}/{total}",
+      "download_complete": "Download complete",
+      "initialization_complete": "Initialization complete"
+    },
+
+    "navigation": {
+      "home": "Home",
+      "back": "Back",
+      "next": "Next",
+      "previous": "Previous",
+      "menu": "Menu",
+      "more": "More"
+    },
+
+    "common": {
+      "error": "Error",
+      "warning": "Warning",
+      "info": "Info",
+      "success": "Success",
+      "loading": "Loading...",
+      "retry": "Retry",
+      "skip": "Skip",
+      "done": "Done",
+      "save": "Save",
+      "delete": "Delete",
+      "edit": "Edit",
+      "search": "Search",
+      "filter": "Filter",
+      "sort": "Sort",
+      "refresh": "Refresh"
+    },
+
+    "permissions": {
+      "camera_title": "Camera Permission",
+      "camera_message": "This app needs camera access to scan QR Codes.",
+      "storage_title": "Storage Permission",
+      "storage_message": "This app needs storage access to download audio files.",
+      "microphone_title": "Microphone Permission",
+      "microphone_message": "This app needs microphone access for recording.",
+      "location_title": "Location Permission",
+      "location_message": "This app needs location access for location services.",
+      "grant": "Grant",
+      "deny": "Deny",
+      "settings": "Go to Settings"
+    },
+
+    "errors": {
+      "network_error": "Network error",
+      "file_not_found": "File not found",
+      "permission_denied": "Permission denied",
+      "unknown_error": "Unknown error",
+      "timeout_error": "Connection timeout",
+      "invalid_format": "Invalid format",
+      "storage_full": "Storage is full"
+    }
   }
 }

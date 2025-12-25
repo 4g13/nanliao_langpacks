@@ -1,0 +1,336 @@
+{
+  "locale": "sp",
+  "strings": {
+    "title": "Aplicación Guía de la Aldea Nanliao",
+    
+    "setting_page": {
+      "title": "Configuración",
+      "general": "General",
+      "language": "Idioma",
+      "clean_cache": "Limpiar caché",
+      "clean_cache_title": "Limpiar caché de audio",
+      "clean_cache_message": "Se eliminarán los archivos de audio descargados. Se volverán a descargar la próxima vez que se reproduzcan",
+      "clean_cache_success": "Se eliminaron {count} archivos",
+      "clean_cache_fail": "Error al limpiar caché",
+      "clean_cache_empty": "No hay archivos en caché",
+      "cancel": "Cancelar",
+      "confirm": "Confirmar",
+      "about": "Acerca de",
+      "app_name": "Versión de la aplicación guía",
+      "version": "v1.0.0",
+      "lang_saved": "Idioma guardado"
+    },
+
+    "home_page": {
+      "welcome": "Bienvenido a la aplicación guía de la aldea Nanliao",
+      "description": "Aplicación guía exclusiva para la comunidad de Nanliao, que ofrece varios menús de funciones.",
+      "menu_title": "Menú de destinos turísticos",
+      "war_games_room": "Sala de estrategia militar"
+    },
+
+    "text_size": {
+      "title": "Ajuste de tamaño de texto",
+      "now": "Tamaño actual",
+      "zoom_in": "Aumentar",
+      "zoom_out": "Reducir",
+      "reset": "Restablecer"
+    },
+
+    "target_focus": {
+      "menu": "¡Desliza aquí el menú para ver más lugares de interés!",
+      "change_button": "Puedes hacer clic aquí para cambiar la forma de mostrar los destinos turísticos.",
+      "setting": "Haz clic aquí para ir a la página de configuración.",
+      "qr": "¡La función de escaneo de código QR está aquí!",
+      "back_home": "Haz clic aquí para volver rápidamente al inicio~",
+      "guide": "¡Haz clic aquí para ver la guía de ayuda nuevamente!",
+      "skip": "Omitir"
+    },
+
+    "tutorial": {
+      "image_carousel": "🖼️ Presentación automática de imágenes, haz clic para ampliar/reducir",
+      "audio_player": "🎵 Función de reproducción de audio",
+      "text_control": "📝 Control de tamaño de texto"
+    },
+
+    "image": {
+      "load_failed": "Error al cargar la imagen",
+      "close": "Cerrar",
+      "no_image": "No hay imágenes para mostrar",
+      "previous": "Anterior",
+      "next": "Siguiente"
+    },
+
+    "audio": {
+      "skip_forward": "Avanzar 5 segundos",
+      "skip_backward": "Retroceder 5 segundos",
+      "restart": "Reproducir de nuevo",
+      "speed_normal": "Velocidad normal 1.0x",
+      "speed_fast": "Reproducción rápida 1.25x",
+      "speed_faster": "Reproducción muy rápida 1.5x",
+      "file_not_found": "No se encontró el archivo de audio",
+      "play_failed": "Error en la reproducción"
+    },
+
+    "loading": {
+      "preparing": "Preparando recursos de idioma...",
+      "downloading": "Descargando paquete de audio {current} / {total}",
+      "completed": "Descarga de paquete de audio completada",
+      "no_need": "No es necesario descargar el paquete de audio"
+    },
+
+    "qr_page": {
+      "title": "Escanear código QR",
+      "scan_instruction": "Apunta la cámara al código QR para escanear",
+      "scan_result": "Resultado del escaneo",
+      "invalid_qr": "Código QR inválido",
+      "scan_error": "Error durante el escaneo",
+      "permission_denied": "Se requiere permiso de cámara para escanear",
+      "permission_request": "Por favor, permite el uso de la cámara",
+      "go_to_settings": "Ir a configuración",
+      "scanning": "Escaneando...",
+      "scan_success": "Escaneo exitoso",
+      "no_camera": "No se encontró cámara disponible"
+    },
+
+    "page1": {
+      "title": "Memoria del Agua"
+    },
+
+    "page1_1": {
+      "title": "Resumen de Nanliao",
+      "introduce": "Introducción al resumen de Nanliao",
+      "content": "Bienvenido a la aldea de Nanliao. Esta tierra tiene profundos antecedentes culturales y más de 400 años de historia. Penghu ha sido un importante punto marítimo desde el siglo XVII. La Compañía Holandesa de las Indias Orientales lo consideró como la puerta de entrada a China, pero fue expulsada por las fuerzas de la dinastía Ming. Después de la Guerra Sino-Japonesa en 1895, Penghu fue cedido a Japón por el Tratado de Shimonoseki y experimentó 50 años de dominio colonial. A diferencia de la prosperidad urbana, Nanliao es una aldea típica semi-agrícola y semi-pesquera, donde los residentes han dependido de la tierra, el agua y el mar durante generaciones, mostrando una conexión directa con la naturaleza. Las murallas de coral, edificios antiguos y pozos tradicionales visibles por toda la aldea son vestigios de la vida ancestral y la razón importante por la cual Nanliao se ha convertido actualmente en uno de los 100 destinos de turismo verde del mundo."
+    },
+
+    "page1_2": {
+      "title": "Fuente de Agua de Nanliao",
+      "introduce": "Introducción a la Fuente de Agua de Nanliao",
+      "content": "Ahora estamos de pie en lo que los residentes de Nanliao llaman la 'Calle Zhongzheng', la avenida central. Bajo esta carretera había en realidad el canal de agua más importante de la antigua Nanliao. La fuente de agua comenzaba en las tierras altas de Hongtugou al este, fluía hacia el noroeste a lo largo de la avenida central hasta el puerto de Kuibi, y era la principal fuente de agua dulce para los residentes de la aldea. Los antiguos residentes lavaban ropa junto al canal, procesaban pescado e incluso instalaban hornos de pescado, teniendo una vida estrechamente relacionada con el agua. La forma de la carretera actual es también la continuación de la ruta del canal de agua."
+    },
+
+    "page1_3": {
+      "title": "Fuente Incompleta",
+      "introduce": "Introducción a la Fuente Incompleta",
+      "content": "Ahora llegamos al pozo número 1 de Nanliao, con casi 400 años de historia. El espacio circundante fue renovado por el gobierno del condado en 2024 como un espacio simbólico de recursos hídricos, instalando las esculturas 'Fuente Incompleta' y 'Niños Saltando al Pozo' para recrear la vida junto al pozo en el pasado. El pozo está construido con muros de coral, y las barandillas protectoras del pozo fueron instaladas principalmente por mujeres, mostrando la sabiduría de la arquitectura tradicional. También hay coral preparado al lado para que puedas experimentar la diversión de participar en la construcción del pozo apilándolo con tus propias manos."
+    },
+
+    "page1_4": {
+      "title": "Juego de saltar al pozo",
+      "introduce": "Introducción al juego de saltar al pozo",
+      "content": "La escultura del 'Juego de saltar al pozo' muestra cómo en el pasado, durante el verano, los niños se quitaban los pantalones hasta la mitad y, sin poder contenerse, saltaban al pozo para jugar en el agua. Como los adultos consideraban peligroso ir al mar, la mayoría de los niños de Nanliao se refrescaban jugando en el agua de los pozos. Los pozos de Nanliao estaban hechos de coral, por lo que las paredes del pozo eran rugosas, fáciles de escalar y relativamente seguras. La ropa interior que llevaban los niños estaba hecha de sacos de harina de 22 kg de la ayuda estadounidense, lo cual era un símbolo de que la familia era relativamente acomodada en esa época."
+    },
+
+    "page1_5": {
+      "title": "Paseo por Nanliao",
+      "introduce": "Introducción al Paseo por Nanliao",
+      "content": "Los sitios turísticos de recursos hídricos de Nanliao están esparcidos por toda la aldea. Se recomienda partir del pozo número 1, luego dirigirse hacia el este por la carretera principal, pasando en orden por la Casa Antigua Xu Fan, el Templo Ancestral Zhao, la Tortuga del Flotador y el Complejo de Casas Antiguas, atravesando la 'Cueva del Estiércol de Vaca' que exhibe la fabricación de estiércol de vaca, y finalmente llegando a la fuente de agua de Hongtugou. En el camino de regreso, se pueden visitar en orden los cuatro pozos antiguos de la aldea para apreciar su estilo arquitectónico, y en cada estación se puede sellar la postal 'Memoria del Agua' como recuerdo del viaje."
+    },
+
+    "page2": {
+      "title": "Horno de pescado Fuji",
+      "introduce": "Introducción al horno de pescado Fuji",
+      "content": "Horno de pescado construido en 1959 (año 48 de la República) por Dai Fuji, dividido en tres partes: base del horno, chimenea y tanque de salmuera. El verano es la temporada de sardinas (conocidas localmente como 'carne apestosa'), cuando las capturas llegan a tierra se cuecen al vapor en el horno y luego se secan al sol para hacer pescado seco que se exporta a Taiwán continental y Japón, siendo la próspera industria de procesamiento pesquero de Penghu. Para que las personas modernas puedan entender la industria tradicional de hornos de pescado, la comunidad obtuvo el consentimiento del propietario Zhao Fuqian y solicitó subsidios del plan de desarrollo espacial en 2012 (año 101 de la República) para renovar y recrear el estilo del horno de pescado."
+    },
+
+    "page3": {
+      "title": "Casa del árbol de coral",
+      "introduce": "Introducción a la casa del árbol de coral",
+      "content": "En los primeros años de la República, tres familias vivían en esta casa antigua. Entre ellas, la 'casa grande' era una farmacia de medicina china dirigida por personas de Qingluo. En el pasado, cuando los aldeanos se sentían mal, buscaban el poder de la fe, recibían prescripciones medicinales del oráculo del Emperador Baosheng, luego preparaban y tomaban la medicina aquí para rezar por una pronta recuperación. También enseñaba estudios clásicos chinos en una escuela privada. La 'habitación este' era residencial, y la 'habitación oeste' era una barbería dirigida por gente local de la aldea. En 2013 (año 102 de la República), a través del plan de viaje de voluntariado internacional, se realizó servicio comunitario y se decoró cuidadosamente, convirtiendo la casa del árbol de coral en un lugar secreto para la exploración histórica."
+    },
+
+    "page4": {
+      "title": "Casa antigua Xu Fan",
+      "introduce": "Introducción a la casa antigua Xu Fan",
+      "content": "La casa antigua comenzó a construirse durante el período Xianfeng de la dinastía Qing (1851~1861), pertenece al patrón de una hilera con cuatro habitaciones laterales, dividida principalmente en sala principal, habitaciones laterales, pabellón y pozo profundo, con entrada de estilo 'tres tragos invertidos', el cuerpo principal son casas de Penghu con paredes de coral enlucidas. Fue renovada por Xu Fan en 1935 (año 24 de la República), quien había aprendido temprano la escuela taoísta Lüshan en el continente y era uno de los primeros transmisores del ritual menor del Palacio Baoning. El Departamento de Cultura del Gobierno del Condado de Penghu lo registró como 'edificio histórico' reconociendo su trasfondo religioso y valor artístico."
+    },
+
+    "page5": {
+      "title": "Flotador giratorio",
+      "introduce": "Introducción al flotador giratorio",
+      "content": "Esta aldea está ubicada en el extremo noreste de Penghu, afectada por los vientos estacionales del noreste, la basura marina de varios países se acumula en la costa, causando una gran carga ambiental a la isla. Zhao Changshou, quien regresó a su tierra natal, comenzó a dedicarse al trabajo de limpieza de playas por casualidad, llevando flotadores utilizables a casa para limpiar y organizar cuidadosamente, creando un nuevo punto focal con significado ambiental."
+    },
+
+    "page6": {
+      "title": "Mercado de pequeños agricultores",
+      "introduce": "Introducción al mercado de pequeños agricultores",
+      "content": "Esta aldea es una aldea agrícola tradicional, con maíz en primavera, cacahuetes, batatas, calabazas y esponjas vegetales en verano y otoño, y repollo, nabos, brócoli y zanahorias en invierno. En 2014 (año 103 de la República), la comunidad obtuvo el consentimiento del propietario Xu Qipeng para presentar un plan de desarrollo espacial, que fue creado conjuntamente por los aldeanos, convirtiéndose en un lugar donde la comunidad celebra irregularmente mercados de pequeños agricultores, donde los aldeanos y residentes de áreas cercanas venden verduras frescas cultivadas por ellos mismos y mariscos de zonas intermareales, promoviendo el concepto de cultivos sin tóxicos y reducción de la huella de carbono alimentaria."
+    },
+
+    "page7": {
+      "title": "Parque de pollos y perros",
+      "introduce": "Introducción al parque de pollos y perros",
+      "content": "Los antepasados de Penghu tuvieron vidas difíciles desde temprano. Durante el solsticio de invierno, además de hacer bolas de arroz con 'arroz molido' como oro y plata para ofrecer a los antepasados y deidades, los niños también moldeaban varias formas con sus manos para ofrecer a antepasados y espíritus. Más tarde usaban 'arroz molido' como material para moldear formas de vacas, ovejas, cerdos, pollos, patos, perros, etc. (conocidos localmente como figuras de pollo y perro) como ofrendas, orando para que los antepasados protegieran la prosperidad del ganado doméstico y las buenas cosechas. Después del sacrificio, las figuras de pollo y perro también podían convertirse en bocadillos y juguetes para los niños, siendo una importante costumbre folklórica de la vida popular de Penghu durante las festividades estacionales. Para promover y transmitir las costumbres locales, el Gobierno del Condado de Penghu estableció especialmente el Parque de Pollos y Perros aquí para crear una imagen cultural turística única."
+    },
+
+    "page8": {
+      "title": "Templo ancestral de los Zhao",
+      "introduce": "Introducción al templo ancestral de los Zhao",
+      "content": "En 1949 (año 38 de la República), el ejército nacional llegó aquí para estacionarse y lo usó como cuartel. Después de la apertura de la televisión taiwanesa, tenía la primera televisión en blanco y negro de toda la aldea, donde se reunían adultos y niños para verla. Por la noche había prácticas de danza y canto de los soldados, comerciantes vendiendo boxeo y medicamentos, proyecciones de películas al aire libre, etc. Estas actividades hicieron del templo ancestral el lugar más animado de la aldea. Después de que el ejército se trasladó, se volvió a establecer un horno de pescado en este espacio abierto, nuevamente lleno del aroma del pescado y voces bulliciosas. Ahora es un templo ancestral donde los descendientes de los Zhao rinden homenaje a sus antepasados."
+    },
+
+    "page9": {
+      "title": "Complejo de casas antiguas de los Zhao",
+      "introduce": "Introducción al complejo de casas antiguas de los Zhao",
+      "content": "El complejo de casas antiguas está ubicado entre los números 77 y 95 de la aldea Nanliao, propiedad de la familia Zhao. El exterior e interior conservan recuerdos de la atmósfera antigua, y después de la limpieza comunitaria se destaca el ambiente arquitectónico tranquilo y clásico. Permanecer en el 'sendero de los descendientes' permite sentir la brisa fresca que viene de la naturaleza, como si los descendientes de Nanliao siempre pudieran encontrar el lugar más fresco para calmar el corazón y proporcionarse un espacio de descanso."
+    },
+
+    "page10": {
+      "title": "Muralla de coral",
+      "introduce": "Introducción a la muralla de coral",
+      "content": "La muralla de coral, conocida localmente como 'muralla de casa', es un paisaje especial de huertos de Penghu construido para resistir los fuertes vientos estacionales del noreste. La obtención de coral se hacía durante la marea baja usando 'ganchos' o 'palancas de ostras' de seis chi de longitud para enganchar los arrecifes de coral, usando el principio de palanca para desprenderlos del fondo marino y cargarlos en botes de remos o veleros. Cuando subía la marea, se remaba el barco hasta la costa 'Xiwo' frente a esta aldea, donde se usaban 'aros de caída' y 'tablones de madera' para transportar el coral hasta la línea de marea alta, luego se llevaba con carretas de bueyes hasta el lugar de uso para construir 'huertos'. Si se quería 'construir una casa grande', había que pasar por viento, sol, lluvia y desalinización durante más de dos años antes de poder usar como material de construcción. Ahora el coral (arrecifes de coral) ya está protegido y está prohibida su recolección."
+    },
+
+    "page11": {
+      "title": "Cueva del estiércol de vaca",
+      "introduce": "Introducción a la cueva del estiércol de vaca",
+      "content": "El área de experiencia de la cueva del estiércol de vaca recrea la apariencia original de la antigua vida rural. En 2013 (año 102 de la República), la comunidad obtuvo el consentimiento del propietario Zhao Yonghuang, y a través del proceso de subsidio del plan de regeneración rural del Consejo de Agricultura del Yuan Ejecutivo, el entorno originalmente cubierto de maleza fue discutido, planificado y organizado conjuntamente por los aldeanos, recreando la memoria de pisar estiércol de vaca y hacer bloques de estiércol de vaca, convirtiéndose en un lugar de experiencia de educación ambiental."
+    },
+
+    "page12": {
+      "title": "Granjero por un día",
+      "introduce": "Introducción al granjero por un día",
+      "content": "El área agrícola de esta aldea es bastante amplia, extendiéndose al este hasta Guoye, al oeste hasta Huxi y Hudong, al norte hasta Beiliao y al sur hasta Jianshan. Los grandes campos distribuidos fuera de la aldea se llaman 'montañas', y los pequeños campos adyacentes a las casas dentro de la aldea se llaman 'dentro de casa'. En este campo se puede imaginar la escena de agacharse para 'plantar cultivos', guiar bueyes para arar, organizar pequeñas piedras de coral, tejer hierba, asar batatas, que es el aspecto de la vida agrícola temprana. Agáchate y toca un puñado de tierra para sentir la calidez y vitalidad de la tierra."
+    },
+
+    "page13": {
+      "title": "Granja de experiencia",
+      "introduce": "Introducción a la granja de experiencia",
+      "content": "El propietario de la granja, Zhao Jiaxie, cultiva con conceptos ecológicos amigables usando métodos sin tóxicos y orgánicos, y en 2014 (año 103 de la República) pasó la certificación institucional para convertirse en una granja orgánica. Además de producir verduras y frutas orgánicas, también proporciona visitas y experiencias agrícolas, con el objetivo final de avanzar hacia paisajes comestibles y agricultura sostenible."
+    },
+
+    "page14": {
+      "title": "Dama enmascarada",
+      "introduce": "Introducción a la dama enmascarada",
+      "content": "El tradicional 'paño de cabeza' de Penghu es un atuendo especial que surgió para que las mujeres se protegieran del sol abrasador, los fríos vientos estacionales del noreste y la niebla salada del mar cuando subían a las montañas y salían al mar. Las formas de envoltura de cada región no son exactamente iguales, la mayoría usa tela cuadrada de tres chi para cubrir el rostro. El método tradicional de envoltura de esta región añade una toalla más para envolver el rostro, y como las que se cubren el rostro son mujeres, se les llama 'damas enmascaradas'. Tiene valor cultural de vida especial, por lo que el Departamento de Cultura del Gobierno del Condado de Penghu lo registró como patrimonio cultural inmaterial."
+    },
+
+    "page15": {
+      "title": "Avenida Baosheng",
+      "introduce": "Introducción a la Avenida Baosheng",
+      "content": "Este lugar es la 'Avenida Baosheng' que conecta Nanliao y Beiliao, donde los residentes de ambas regiones adoran conjuntamente al Emperador Baosheng. En el pasado, cuando la vida de los antepasados era difícil y se enfermaban o enfrentaban dificultades, a menudo buscaban prescripciones medicinales y oráculos de fortuna del Emperador Baosheng para encontrar orientación. La muralla colorida que se ve al frente fue hecha para continuar esta fe, y Penghu tiene vientos fuertes y alta salinidad, por lo que las pinturas coloridas también protegen la muralla mientras muestran la cultura oracular del Palacio Baoning. Los colores amarillo, azul, rojo, verde, blanco y negro de la pared provienen de la coloración de las deidades y el sistema de cinco campamentos, significando protección en todas las direcciones, y también es el origen de los colores de las banderas durante las procesiones de las deidades."
+    },
+
+    "feature_1": "Página 1",
+    "feature_2": "Página 2",
+    "feature_3": "Página 3",
+    "feature_4": "Página 4",
+    "feature_5": "Página 5",
+    "feature_6": "Página 6",
+    "feature_7": "Página 7",
+    "feature_8": "Página 8",
+    "feature_9": "Página 9",
+    "feature_10": "Página 10",
+    "feature_11": "Página 11",
+    "feature_12": "Página 12",
+    "feature_13": "Página 13",
+    "feature_14": "Página 14",
+    "feature_15": "Página 15",
+    "feature_16": "Página 16",
+    "feature_17": "Página 17",
+    "feature_18": "Página 18",
+    "feature_19": "Página 19",
+    "feature_20": "Círculo de imagen",
+    "feature_21": "Escaneo QR",
+    
+    "back_to_home": "Volver al inicio",
+    "current_home": "Actualmente en inicio",
+    "settings": "Configuración",
+
+    "map_title": "Mapa",
+    "coordinate_point": "Punto de coordenadas",
+    "coordinates": "Coordenadas",
+    "status": "Estado",
+    "marked": "Marcado",
+    "unmarked": "Sin marcar",
+    "close": "Cerrar",
+    
+    "qr_scanner_title": "Escáner QR",
+    "scan_instruction": "Apunta la cámara al código QR para escanear",
+    "scan_result": "Resultado del escaneo:",
+    "scan_again": "Escanear de nuevo",
+    "open_link": "Abrir enlace",
+    "opening": "Abriendo...",
+    "copy": "Copiar",
+    "copied": "Copiado al portapapeles",
+    "copy_failed": "Error al copiar",
+    "confirm_open_link": "¿Abrir este enlace?",
+    "confirm_open_message": "¿Quieres abrir este enlace en el navegador?",
+    "cancel": "Cancelar",
+    "open": "Abrir",
+    "pick_from_gallery": "Seleccionar de la galería",
+    "scan_from_camera": "Escanear con cámara",
+    "select_qr_source": "Seleccionar fuente del código QR",
+    "processing_image": "Procesando imagen...",
+    "no_qr_found": "No se encontró código QR en la imagen",
+    "invalid_image": "Formato de imagen inválido",
+    "image_too_large": "La imagen es demasiado grande, por favor selecciona una más pequeña",
+
+    "cache_messages": {
+      "clear_cache_title": "Limpiar caché de audio",
+      "clear_cache_content": "¿Estás seguro de que quieres eliminar los archivos de audio descargados? Se volverán a descargar la próxima vez",
+      "clear_cache_cancel": "Cancelar",
+      "clear_cache_confirm": "Confirmar eliminación",
+      "clear_cache_success": "Se eliminaron {count} archivos de caché",
+      "clear_cache_failed": "Error al limpiar caché"
+    },
+
+    "app_init": {
+      "loading_title": "Cargando...",
+      "preparing_resources": "Preparando recursos...",
+      "download_progress": "Descargando {current}/{total}",
+      "download_complete": "Descarga completada",
+      "initialization_complete": "Inicialización completada"
+    },
+
+    "navigation": {
+      "home": "Inicio",
+      "back": "Atrás",
+      "next": "Siguiente",
+      "previous": "Anterior",
+      "menu": "Menú",
+      "more": "Más"
+    },
+
+    "common": {
+      "error": "Error",
+      "warning": "Advertencia",
+      "info": "Información",
+      "success": "Éxito",
+      "loading": "Cargando...",
+      "retry": "Reintentar",
+      "skip": "Omitir",
+      "done": "Hecho",
+      "save": "Guardar",
+      "delete": "Eliminar",
+      "edit": "Editar",
+      "search": "Buscar",
+      "filter": "Filtrar",
+      "sort": "Ordenar",
+      "refresh": "Actualizar"
+    },
+
+    "permissions": {
+      "camera_title": "Permiso de cámara",
+      "camera_message": "Esta aplicación necesita acceso a la cámara para escanear códigos QR",
+      "storage_title": "Permiso de almacenamiento",
+      "storage_message": "Esta aplicación necesita acceso al almacenamiento para descargar archivos de audio",
+      "microphone_title": "Permiso de micrófono",
+      "microphone_message": "Esta aplicación necesita acceso al micrófono para la función de grabación",
+      "location_title": "Permiso de ubicación",
+      "location_message": "Esta aplicación necesita acceso a la ubicación para servicios de localización",
+      "grant": "Conceder",
+      "deny": "Denegar",
+      "settings": "Ir a configuración"
+    },
+
+    "errors": {
+      "network_error": "Error de red",
+      "file_not_found": "Archivo no encontrado",
+      "permission_denied": "Permiso denegado",
+      "unknown_error": "Error desconocido",
+      "timeout_error": "Tiempo de conexión agotado",
+      "invalid_format": "Formato inválido",
+      "storage_full": "Almacenamiento lleno"
+    }
+  }
+}
